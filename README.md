@@ -1,4 +1,4 @@
-# Digital-Clock
+# credit-card
 
 - [Demo Project](https://golnazrahmanian.github.io/credit-card)
 - Developed by Golnaz Rahmanian
